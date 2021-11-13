@@ -3,7 +3,7 @@ Type the radius to calculate the  dimension and  perimeter
 
 #include <iostream>
 
-using namespace std; // 
+using namespace std; 
 int main()
 {
  double r, pi=3.1415;
